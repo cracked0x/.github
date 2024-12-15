@@ -1,6 +1,6 @@
 # yo, we're cracked0x 🔥
 
-![cracked0x banner](https://raw.githubusercontent.com/cracked0x/.github/main/banner.png)
+![cracked0x banner](https://raw.githubusercontent.com/cracked0x/.github/main/banner.gif)
 
 fr, we sip tea n' ship on web3. 
 
